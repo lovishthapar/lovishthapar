@@ -1,5 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Lovish monga</h1>
+<p align="center">
+  <img src="hi.gif" alt="Introduction">
+</p>
 <h3 align="center">A passionate App developer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovishthapar&label=Profile%20views&color=0e75b6&style=flat" alt="lovishthapar" /> </p>
