@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hi.gif" alt="Introduction">
+  <img src="hy.gif" alt="Introduction">
 </p>
 <h3 align="center">A passionate App developer from india</h3>
 
