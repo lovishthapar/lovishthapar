@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/lovish-monga-2521b8280/**
   <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img src="connected.gif" alt="lovish" width="350" height="200" />
 </div>
 
 
