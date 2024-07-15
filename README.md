@@ -12,6 +12,8 @@
 - 📫 How to reach me **https://www.linkedin.com/in/lovish-monga-2521b8280/**
 
 - 📧 Mail me at lmonga_be22@thapar.edu
+
+- 𝕏 - https://x.com/lovi_s_h
   <div align="center">
 <img src="connected.gif" alt="lovish" width="350" height="200" />
 </div>
