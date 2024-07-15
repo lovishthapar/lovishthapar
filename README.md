@@ -10,6 +10,8 @@
 - 🤝 I’m looking for help with **flutter**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lovish-monga-2521b8280/**
+
+- 📧 Mail me at lmonga_be22@thapar.edu
   <div align="center">
 <img src="connected.gif" alt="lovish" width="350" height="200" />
 </div>
