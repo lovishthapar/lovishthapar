@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **dart**
 
-- 🤝 I’m looking for help with **flutter**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lovish-monga-2521b8280/**
 
