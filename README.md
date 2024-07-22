@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hy.gif" alt="Introduction">
+  HI I AM LOVISH
 </p>
 <h3 align="center">A passionate App developer from india</h3>
 
